@@ -1,2 +1,2 @@
 # Battleship
-game JS
+Простая игра в Морской бой на JavaScript
